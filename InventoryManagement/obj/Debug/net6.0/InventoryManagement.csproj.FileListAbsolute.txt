@@ -1,0 +1,15 @@
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/InventoryManagement
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/InventoryManagement.deps.json
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/InventoryManagement.runtimeconfig.json
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/InventoryManagement.dll
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/ref/InventoryManagement.dll
+/home/bad/Documents/ims/InventoryManagement/bin/Debug/net6.0/InventoryManagement.pdb
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.csproj.AssemblyReference.cache
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.AssemblyInfoInputs.cache
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.AssemblyInfo.cs
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.csproj.CoreCompileInputs.cache
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.dll
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/ref/InventoryManagement.dll
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.pdb
+/home/bad/Documents/ims/InventoryManagement/obj/Debug/net6.0/InventoryManagement.genruntimeconfig.cache
